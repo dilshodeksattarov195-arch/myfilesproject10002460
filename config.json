@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcecrypt",
+        "uuid": 12974040,
+        "checksum": "tpczn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
